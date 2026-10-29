@@ -1,0 +1,8 @@
+langchain-core
+langchain-ollama
+langgraph
+langchain-text-splitters
+upstash-vector
+pydantic
+python-dotenv
+tiktoken
